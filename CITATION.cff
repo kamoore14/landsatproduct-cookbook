@@ -42,6 +42,11 @@ authors:
     orcid: https://orcid.org/0000-0001-8155-8038
     website: https://github.com/kmpaul
     affiliation: NVIDIA
+  - family-names: Du
+    given-names: Jianwen
+    orcid: https://orcid.org/0000-0002-7271-1122
+    website: https://github.com/Janewendo
+    affiliation: Department of Hydrology and Atmospheric Sciences, University of Arizona
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Cookbook Template"
