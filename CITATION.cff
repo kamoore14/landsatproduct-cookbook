@@ -2,6 +2,30 @@ cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names: Snow
+    given-names: Tasha
+    orcid: https://orcid.org/0000-0001-5697-5470
+    website: https://tsnow03.github.io
+    affiliation: Earth System Science Interdisciplinary Center, University of Maryland / NASA GSFC
+  - family-names: Moore
+    given-names: Kathryn
+    orcid: https://orcid.org/0000-0002-9242-5422
+    website: https://github.com/kamoore14
+    affiliation: University of Maryland, College Park
+  - family-names: Clow
+    given-names: Genevieve L.
+    orcid: https://orcid.org/0000-0003-4493-035X # optional
+    affiliation: University of Colorado Boulder # optional
+  - family-names: Kent
+    given-names: Julia
+    orcid: https://orcid.org/0000-0002-5611-8986
+    website: https://github.com/jukent
+    affiliation: UCAR/NCAR
+  - family-names: Du
+    given-names: Jianwen
+    orcid: https://orcid.org/0000-0002-7271-1122
+    website: https://github.com/Janewendo
+    affiliation: Department of Hydrology and Atmospheric Sciences, University of Arizona
   family-names: Oliazadeh
     given-names: Arman 
     orcid: 0000-0002-3673-9793
