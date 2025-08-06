@@ -1,7 +1,39 @@
-name: cookbook-dev
+name: landsat-product-cookbook-dev
 channels:
   - conda-forge
 dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - xarray
+  - pygmt
+  - scikit-image
+  - gdal
+  - pystac-client
+  - pyproj
+  - pandas
+  - geopandas
+  - intake
+  - earthaccess
+  - scikit-learn
+  - ipywidgets
+  - tqdm
+  - boto3
+  - rasterio
+  - dask
+  - rioxarray
+  - cartopy
+  - scipy
+  - shapely
+  - statsmodels
+  - cycler
+  - pytest
+  - nbmake
+  - matplotlib
+  - ipympl
+  - geoviews
+  - hvplot
+  - pip
+  - pip:
+    - pytensor
+    - pymc
