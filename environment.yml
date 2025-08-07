@@ -33,6 +33,7 @@ dependencies:
   - ipympl
   - geoviews
   - hvplot
+  - seaborn
   - pip
   - pip:
     - pytensor
