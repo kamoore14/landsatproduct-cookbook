@@ -37,7 +37,6 @@ dependencies:
   - seaborn
   - prettytable
   - metpy
-  - pykrige
   - pytensor
   - pymc
   - pip
