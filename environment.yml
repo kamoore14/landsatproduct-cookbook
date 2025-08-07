@@ -2,7 +2,6 @@ name: landsat-product-cookbook-dev
 channels:
   - conda-forge
 dependencies:
-  - python>=3.12
   - jupyterlab=4.0.13
   - mystmd
   - jupyterlab-myst
