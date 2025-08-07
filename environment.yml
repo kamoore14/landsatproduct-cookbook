@@ -35,6 +35,7 @@ dependencies:
   - ipympl
   - geoviews
   - hvplot
+  - seaborn
   - prettytable
   - metpy
   - pip
