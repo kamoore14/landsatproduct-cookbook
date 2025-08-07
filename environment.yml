@@ -5,7 +5,7 @@ dependencies:
   - jupyterlab=4.0.13
   - mystmd
   - jupyterlab-myst
-  - xarray=2024.05.0
+  - xarray
   - pygmt
   - scikit-image
   - gdal
@@ -38,7 +38,6 @@ dependencies:
   - prettytable
   - metpy
   - pykrige
+  - pytensor
+  - pymc
   - pip
-  - pip:
-    - pytensor
-    - pymc
