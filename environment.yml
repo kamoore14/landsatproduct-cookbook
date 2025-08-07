@@ -13,8 +13,8 @@ dependencies:
   - pyproj
   - pandas
   - geopandas
-  - intake=2.0.7
-  - intake-esm=v2025.2.3
+  - intake=0.0.7
+  - intake-esm=2024.2.6
   - earthaccess
   - scikit-learn
   - ipywidgets
