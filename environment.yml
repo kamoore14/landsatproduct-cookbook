@@ -2,6 +2,7 @@ name: landsat-product-cookbook-dev
 channels:
   - conda-forge
 dependencies:
+  - python>=3.12
   - jupyterlab
   - mystmd
   - jupyterlab-myst
@@ -13,7 +14,8 @@ dependencies:
   - pyproj
   - pandas
   - geopandas
-  - intake
+  - intake=0.7.0
+  - intake-esm=2024.2.6
   - earthaccess
   - scikit-learn
   - ipywidgets
@@ -34,6 +36,8 @@ dependencies:
   - geoviews
   - hvplot
   - seaborn
+  - prettytable
+  - metpy
   - pip
   - pip:
     - pytensor
