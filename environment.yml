@@ -3,40 +3,28 @@ channels:
   - conda-forge
 dependencies:
   - jupyterlab=4.0.13
+  - intake=0.7.0
+  - intake-esm=2024.2.6
   - mystmd
   - jupyterlab-myst
-  - xarray
   - pygmt
   - scikit-image
   - gdal
   - pystac-client
   - pyproj
-  - pandas
   - geopandas
-  - intake=0.7.0
-  - intake-esm=2024.2.6
   - earthaccess
   - scikit-learn
   - ipywidgets
   - tqdm
-  - boto3
-  - rasterio
   - dask
-  - rioxarray
-  - cartopy
-  - scipy
-  - shapely
-  - statsmodels
-  - cycler
-  - pytest
-  - nbmake
-  - matplotlib
-  - ipympl
-  - geoviews
-  - hvplot
-  - seaborn
-  - prettytable
   - metpy
+  - statsmodels
+  - seaborn
+  - pytest
+  - ipympl
+  - hvplot
+  - geoviews
+  - prettytable
   - pytensor
   - pymc
-  - pip
