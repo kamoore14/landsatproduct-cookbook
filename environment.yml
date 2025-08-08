@@ -33,5 +33,4 @@ dependencies:
   - hvplot
   - seaborn
   - metpy
-  - scikit-image
   - pip
